@@ -49,9 +49,7 @@ hoh = {
     :Phylum => {},
     :Class => {},
   }},
-  {
-  :Order => {}
-  }
+
   
 
 end
