@@ -52,12 +52,12 @@ def naming_system
        label: "Class",
      sub_category: {
        label: "Order",
-       {
+    
        label: "Family",
      sub_category: {
       label: "Genus",
         }
-      }
+      
      }
      }
    }
