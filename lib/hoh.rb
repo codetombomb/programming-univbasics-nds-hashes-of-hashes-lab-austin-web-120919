@@ -44,8 +44,8 @@ def naming_system
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
   # HoH all the way to Species!
   
-  life_on_earth = {label: "Kingdom", sub_category: {label: "Phylum", sub_category: { binding.pry 
-
+  life_on_earth = {label: "Kingdom", sub_category: {label: "Phylum", sub_category: { 
+    binding.pry
     label:"Class", sub_category: {label: "Order"},{label: "Family", sub_category: "Genus"}}}}}
 
 end
