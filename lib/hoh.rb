@@ -48,7 +48,8 @@ hoh = {
   :Kingdom => {
     :Phylum => {},
     :Class => {},
-  }}
+  }},
+  :Order => {}
   
 hoh
 end
