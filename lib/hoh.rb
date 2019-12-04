@@ -47,17 +47,10 @@ def naming_system
 hoh = {
   :Kingdom => {
     :Phylum => {
-      :Class => {
-        :Order => {
-          :Family => {
-            :Genus => {
-              :Species => {}
-            },
-          },
-        },
-      },
-    },
-   }}
+      :Class => {}
+    }
+  },
+  
 
 hoh
 end
