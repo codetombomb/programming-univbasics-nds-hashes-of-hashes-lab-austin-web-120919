@@ -51,5 +51,4 @@ kingdom = {
       }
     }
   }
-}
 end
