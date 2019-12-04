@@ -45,10 +45,10 @@ def naming_system
   # HoH all the way to Species!
   
 hoh = {
-  :Kingdom => {},
+  :Kingdom => {
   :Phylum => {},
   :Class => {},
-  } ,
+  }} ,
   
 
 :hoh
