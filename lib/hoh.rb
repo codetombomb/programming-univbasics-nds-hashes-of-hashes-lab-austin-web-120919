@@ -46,7 +46,7 @@ def naming_system
   
 hoh = {
   :Kingdom => {},
-  :Phylum => {},
+    :Phylum => {},
   :Class => {},
   :Order => {},
   :Family => {},
