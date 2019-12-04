@@ -44,7 +44,7 @@ def naming_system
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
   # HoH all the way to Species!
   
-hoh = { 
+hoh = { binding.pry
   :Kingdom => {
     :Phylum => {},
     :Class => {},
